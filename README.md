@@ -1,2 +1,2 @@
-# c20
-making is Touching or collide algorithm
+# p5.play-boilerplate
+Boiler plate for p5.play
